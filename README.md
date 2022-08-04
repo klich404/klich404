@@ -14,7 +14,7 @@
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<a target="_blank" href="https://icons8.com/icon/45490/c-sharp-logo-2">C Sharp Logo 2</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<img src="https://icons8.com/icon/45490/c-sharp-logo-2"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
