@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Carlos Cruz
-**** 
-_Junior Software Developer_
+# <div aling="center">Hi there 👋, I'm Carlos Cruz</div>
+####<div aling="center">_Junior Software Developer_</div>
+
+<br/>
 
 About me:
 **** 
