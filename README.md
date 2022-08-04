@@ -9,6 +9,6 @@
 - ⚡ Fun fact: I like videogames, anime and field tennis.
 
 ## 🧰 Languajes and Tools
-[(https://toppng.com/c-programming-icon-c-programming-language-logo-PNG-free-PNG-Images_180189)](https://toppng.com/c-programming-icon-c-programming-language-logo-PNG-free-PNG-Images_180189)
+[![C Logo](https://toppng.com/c-programming-icon-c-programming-language-logo-PNG-free-PNG-Images_180189)](https://toppng.com/c-programming-icon-c-programming-language-logo-PNG-free-PNG-Images_180189)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klich404&exclude_repo=CSharpCRUD_SeriesListWeb&theme=dracula)](https://github.com/klich404/github-readme-stats)
