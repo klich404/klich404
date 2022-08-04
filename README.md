@@ -8,6 +8,8 @@
 - 📫 How to reach me: **klich4010@gmail.com**.
 - ⚡ Fun fact: I like videogames, anime and field tennis.
 
+<br/>
+
 ## 📮 Find me on
 
 <p align="left">  
@@ -29,6 +31,5 @@
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </p>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klich404&exclude_repo=CSharpCRUD_SeriesListWeb&theme=dracula)
