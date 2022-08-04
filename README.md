@@ -11,7 +11,7 @@
 ## 🧰 Languajes and Tools
 
 <p aling="left">
-  [!(https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)]
+  [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)]
 </p>
 
 
