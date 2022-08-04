@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klich404)](https://github.com/klich404/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klich404&exclude_repo=CSharpCRUD_SeriesListWeb)](https://github.com/klich404/github-readme-stats)
