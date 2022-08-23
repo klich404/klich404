@@ -4,7 +4,7 @@
 <br/>
 
 - 🔭 I’m currently looking for a job as a junior developer.
-- 🌱 I’m currently learning: JavaScript, C# and ASP.NET Core.
+- 🌱 I’m currently learning: Visual Basic .NET, C# and JavaScript.
 - 📫 How to reach me: **klich4010@gmail.com**.
 - ⚡ Fun fact: I like videogames, anime and field tennis.
 
